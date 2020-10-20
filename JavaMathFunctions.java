@@ -17,7 +17,7 @@ public class JavaMathFunctions
         int decision;
         double x;
         double y;
-        double results;
+        double results; 
         
         //choices
         System.out.println("What math function would you like to use?");
